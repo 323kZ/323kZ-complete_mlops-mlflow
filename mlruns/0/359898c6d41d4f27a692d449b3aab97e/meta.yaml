@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/323kZ-complete_mlops-mlflow/mlruns/0/359898c6d41d4f27a692d449b3aab97e/artifacts
+end_time: 1727884720700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 359898c6d41d4f27a692d449b3aab97e
+run_name: rebellious-smelt-193
+run_uuid: 359898c6d41d4f27a692d449b3aab97e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727884715601
+status: 3
+tags: []
+user_id: ASUS

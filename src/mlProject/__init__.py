@@ -1,5 +1,3 @@
-### for logging 
-
 import os
 import sys
 import logging
@@ -21,4 +19,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger("MLOPS_MLFLOW_Logger")
+logger = logging.getLogger("mlProjectLogger")
